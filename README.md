@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/\hadi_yousof_/)](https://www.instagram.com/hadi_yousof_)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hadiyousefzaei@gmail.com)
 [![Github](https://img.shields.io/github/followers/hadi-yousof?label=Follow&style=social)](https://github.com/hadi-yousof)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/@spyderwashere)
+[![Telegram](https://img.shields.io/Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/@spyderwashere)
 
 ## 👋 About Me
 - 🎓 Computer Engineering student at [Shams Gonbad Institute of Higher Education](https://shamsgonbad.ac.ir)
