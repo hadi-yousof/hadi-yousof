@@ -19,7 +19,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sepia-eight.vercel.app/api?username=hadi-yousof&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadi-yousof&show_icons=true&theme=radical)
 
 📫 **Reach me:** hadiyousefzaei@gmail.com
 
