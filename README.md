@@ -19,14 +19,14 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadi-yousof&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-yousof&layout=compact&theme=radical)
 
 📫 **Reach me:** hadiyousefzaei@gmail.com
 
 ### 🖥 Skills
 
-- **Python Programming (OOP, Jupyter Notebook)
-- **Data Visulisation (Matplotlib, Seaborn)
+- **Python Programming** (OOP, Jupyter Notebook)
+- **Data Visulisation** (Matplotlib, Seaborn)
 
 
 ### ⚙️ Tech Stack
