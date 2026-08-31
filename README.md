@@ -9,7 +9,8 @@
 - 🎓 Computer Engineering student at [Shams Gonbad Institute of Higher Education](https://shamsgonbad.ac.ir)
 - 🐍 Python Developer
 - 🌱 Exploring Django for backend development.
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<a href="https://www.youtube.com/watch?v=U_IbIMUbh-k&pp=ygUYMjAxNiB4eGwgZnJlc2htYW4gY3lwaGVy"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
