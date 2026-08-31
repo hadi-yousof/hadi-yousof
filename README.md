@@ -27,7 +27,7 @@
 
 - **Python Programming** (OOP, Jupyter Notebook)
 - **Data Visulisation** (Matplotlib, Seaborn)
-- **Git & Github**
+- **Control Version** (Git, Github)
 
 
 ### ⚙️ Tech Stack
