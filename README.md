@@ -20,7 +20,9 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-yousof&layout=compact&theme=radical)
+<p align = "center">
+	<img src = "https://github.com/hadi-yousof/hadi-yousof/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 📫 **Reach me:** hadiyousefzaei@gmail.com
 
