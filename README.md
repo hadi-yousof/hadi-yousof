@@ -20,9 +20,10 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ## 📊 GitHub Stats
-<p align = "center">
-	<img src = "https://github.com/hadi-yousof/hadi-yousof/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hadi-yousof&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 
 📫 **Reach me:** hadiyousefzaei@gmail.com
 
