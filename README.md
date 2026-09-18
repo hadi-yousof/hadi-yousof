@@ -12,6 +12,8 @@
 
 <a href="https://www.youtube.com/watch?v=U_IbIMUbh-k&pp=ygUYMjAxNiB4eGwgZnJlc2htYW4gY3lwaGVy"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+📫 **Reach me:** hadiyousefzaei@gmail.com
+
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -21,8 +23,6 @@
 
 
 📫 **Reach me:** hadiyousefzaei@gmail.com
-
-### 🖥 Skills
 
 - **Python Programming** (OOP, Jupyter Notebook)
 - **Data Visulisation** (Matplotlib, Seaborn)
