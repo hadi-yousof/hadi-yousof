@@ -22,8 +22,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 
-📫 **Reach me:** hadiyousefzaei@gmail.com
-
 - **Python Programming** (OOP, Jupyter Notebook)
 - **Data Visulisation** (Matplotlib, Seaborn)
 - **Control Version** (Git, Github)
