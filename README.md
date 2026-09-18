@@ -19,11 +19,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/hadi-yousof">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hadi-yousof&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
 
 📫 **Reach me:** hadiyousefzaei@gmail.com
 
